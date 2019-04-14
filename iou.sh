@@ -1,0 +1,13 @@
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_1000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_2000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_3000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_4000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_5000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_6000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_7000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_8000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_9000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_10000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_11000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_12000.weights
+./darknet detector recall ECE491_DN-master/data/491data/491.data ECE491_DN-master/data/491data/491_yolov3-tiny.cfg ECE491_DN-master/backup/Plus_Firetruck/491_yolov3-tiny_final.weights
