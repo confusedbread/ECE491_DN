@@ -1,0 +1,4 @@
+#!/bin/bash
+roslaunch video_stream_opencv camera.launch video_stream_provider:="/home/robot1/catkin_ws/video_stream_opencv-master/scripts/ECE491Ambulance_Trim.mp4" &
+rosbag record -a 
+
